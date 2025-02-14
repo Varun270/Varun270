@@ -23,7 +23,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun270&theme=onedark"/> 
 </p>
 
-[![Varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=Varun270&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Varun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Varun270&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
